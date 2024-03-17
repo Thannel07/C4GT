@@ -909,3 +909,23 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Thannel Chithan</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Thannel07</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>linkedin.com/in/thannel-chithan-80b7731b4</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>National Institute of Technology, Arunachal Pradesh</td>
+  </tr>
+</table>
+
